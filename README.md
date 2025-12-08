@@ -1,2 +1,2 @@
 # esp32
-esp32 scripts
+esp32 and microcontroller scripts
